@@ -180,12 +180,12 @@ li {
     }
 
     .container-1 {
-        background-image: url('/assets/img/article-image-1video-placeholder.jpg');
+        background-image: url('../img/article-image-1video-placeholder.jpg');
         background-size: cover;
     }
 
     .container-2{
-        background-image: url('/assets/img/article-image-2video-placeholder.jpg');
+        background-image: url('../img/article-image-2video-placeholder.jpg');
         background-size: cover;
     }
 }
